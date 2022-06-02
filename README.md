@@ -1,5 +1,5 @@
 
-  ### Hi i'm Vinicius Bertolo
+  ### Hi i'm Paulo Mascaro
 
 - 🤩 In love with what I do
 - 🌱 Self-taught
@@ -27,18 +27,19 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/viniciusbertolo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusbertolo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbertolo&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <a href="https://github.com/Paulomascaro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulomascaro&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulomascaro&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
   <div align="center">
      
-  <a href="https://instagram.com/viniciusbertolo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-      <a href="https://www.facebook.com/vinicius.alexandremuschenbornbertolo" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href = "mailto:vini.alex.bertolo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vinicius-bertolo-44a094126" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://api.whatsapp.com/send?phone=5516982559460&text=Te vi no lá no GitHub! Eai, beleza?" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/mascaropaulo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+     
+  <a href = "mailto:mascaropr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/paulo-ricardo-mascaro-097b9173/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://api.whatsapp.com/send?phone=
+             5516996241678 lá no GitHub! Eai, beleza?" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
       
     
     
